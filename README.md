@@ -16,7 +16,7 @@
   
   - [How To Create Your Own Azure Account / Building A Virtual Machine](https://github.com/Rashaddropemoff/How-To-Create-Your-Own-Azure-Account-Building-A-Virtual-Machine.git)
   - [Configuring Active Directory within Azure VMs](https://github.com/Rashaddropemoff/Configuring-Active-Directory-within-Azure-VMs.git)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/terikaj/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Rashaddropemoff/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols.git)
 </details>
 
 
