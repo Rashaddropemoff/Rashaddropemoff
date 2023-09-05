@@ -8,7 +8,7 @@
   
   - [osTicket: Prerequisites and Installation](https://github.com/Rashaddropemoff/osTicket-Prerequisites-and-Installation.git)
   - [osTicket: Post-Installation Configuration](https://github.com/Rashaddropemoff/osTicket-Post-Installation-Configuration.git)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/terikaj/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Rashaddropemoff/osTicket-Ticket-Lifecycle-Examples.git)
 </details>
 
 <details open>
