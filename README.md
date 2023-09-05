@@ -6,7 +6,7 @@
 <details open>
   <summary><img src="https://i.imgur.com/KzJbWRS.png" height="5%" width="10%" alt="osTicket"/></summary>
   
-  - [osTicket: Prerequisites and Installation](https://github.com/terikaj/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/Rashaddropemoff/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/terikaj/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/terikaj/ticket-lifecycle)
 </details>
