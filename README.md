@@ -25,7 +25,7 @@
 
 
 Implementing a SOC / Honeynet using Microsoft Azure 
-  - [Building and Configuring a LIVE SOC / Honeynet using Azure](https://github.com/terikaj/SOC-Honeynet)
+  - [Building and Configuring a LIVE SOC / Honeynet using Azure](https://github.com/Rashaddropemoff/Building-and-Configuring-a-LIVE-SOC-Honeynet-using-Azure.git)
 
 
 <h2> 🤳 Connect with me:</h2>
